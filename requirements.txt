@@ -3,7 +3,6 @@ networkx
 scapy
 python-nmap
 pyshark
-masscan
 mitmproxy
 paramiko
 impacket
