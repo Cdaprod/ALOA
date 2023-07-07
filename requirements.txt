@@ -8,6 +8,7 @@ paramiko
 impacket
 cryptography
 pycryptodome
-deception
 scikit-learn
 tensorflow
+langchain
+openai
