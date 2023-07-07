@@ -1,8 +1,6 @@
 Django>=3.2,<4.0
 networkx
 scapy
-socket
-os
 nmap-python
 pyshark
 masscan
