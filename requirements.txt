@@ -1,0 +1,14 @@
+Django>=3.2,<4.0
+networkx
+scapy
+python-nmap
+pyshark
+mitmproxy
+paramiko
+impacket
+cryptography
+pycryptodome
+scikit-learn
+tensorflow
+langchain
+openai
