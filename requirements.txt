@@ -1,13 +1,11 @@
 Django>=3.2,<4.0
 networkx
 scapy
-nmap-python
+python-nmap
 pyshark
 masscan
 mitmproxy
 paramiko
-random
-string
 impacket
 cryptography
 pycryptodome
